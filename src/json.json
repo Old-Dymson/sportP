@@ -1,0 +1,96 @@
+{
+  "id": 1,
+  "matchDuration": 3,
+  "setDuration": 15,
+  "status": "notStarted / 1S / 2S / 3S / finished",
+  "stage": "group / quarter / semi / final",
+  "host": {
+    "id": 1,
+    "name": "выпуск 2012",
+    "shortName": "2012",
+    "imageUrl": "/",
+    "logoUrl": "/",
+    "groupName": "A",
+
+    "setsWon": 2,
+
+    "stat": null,
+
+    "sets": [
+      {
+        "id": 1,
+        "pointsWon": 25,
+        "timeouts": 2,
+        "stat": null
+      },
+      {
+        "id": 2,
+        "pointsWon": 25,
+        "timeouts": 0,
+        "stat": null
+      }
+    ],
+
+    "players": [
+      {
+        "id": 1,
+        "firstName": "Игорь",
+        "lastName": "Дыминский",
+        "number": 8,
+        "imageUrl": "/"
+      },
+      {
+        "id": 1,
+        "firstName": "Игорь",
+        "lastName": "Дыминский",
+        "number": 8,
+        "imageUrl": "/"
+      }
+    ]
+  },
+
+  "away": {
+    "id": 2,
+    "name": "выпуск 2016",
+    "shortName": "2016",
+    "imageUrl": "/",
+    "logoUrl": "/",
+    "groupName": "A",
+
+    "setsWon": 2,
+
+    "stat": null,
+
+    "sets": [
+      {
+        "id": 1,
+        "pointsWon": 25,
+        "timeouts": 0,
+        "stat": null
+      },
+      {
+        "id": 2,
+        "pointsWon": 25,
+        "timeouts": 2,
+        "stat": null
+      }
+    ],
+
+    "players": [
+      {
+        "id": 1,
+        "firstName": "Игорь",
+        "lastName": "Дыминский",
+        "number": 8,
+        "imageUrl": "/"
+      },
+      {
+        "id": 1,
+        "firstName": "Игорь",
+        "lastName": "Дыминский",
+        "number": 8,
+        "imageUrl": "/"
+      }
+    ]
+  }
+}
